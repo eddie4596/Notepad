@@ -1,1 +1,16 @@
 Requirements list Version 1.0
+1) Be able to create new notes
+2) Be able to edit existing notes
+3) Be able to delete notes
+4) Keep a storage of all notes created
+5) Be able to view notes
+6) Notes should have a title and a body describing the note
+7) Notes should have the date they were created
+
+How should the interface look? More on this later...
+
+Potential ideas:
+- able to encrypt notes?
+- have user logins to accomodate multiple users?
+- Add the time the the note was created as well
+- display word count on each note?
