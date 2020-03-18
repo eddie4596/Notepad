@@ -1,1 +1,35 @@
 Use Cases version 1.0
+
+User creates a new note
+1) User clicks on "new note" button
+2) System opens a blank note
+3) User types their note
+4) User clicks "save note" button
+5) System asks user to title the note
+6) User enters title
+7) System timestamps the note
+8) System saves the note
+9) System takes the user to the menu
+
+User edits a note
+1) User clicks on "Edit a note"
+2) System shows the list of existing notes
+3) User clicks on note they want to edit
+4) System opens that note
+5) User edits the note
+6) User clicks "Save note" button
+7) System timestamps the note
+8) System saves the note
+9) System takes the user to the menu
+
+User deletes a note
+1) User clicks on "Delete a note"
+2) System shows the list of existing notes
+3) User clicks on note he wants to delete 
+4) System asks user "Are you sure you want to delete <name of note>?"
+5) User clicks on Yes
+6) System deletes the note
+7) System takes the user to the menu
+
+
+
