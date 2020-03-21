@@ -1,10 +1,13 @@
-Use Cases version 1.0
+Use Cases version 1.1
 
 User creates a new note
 1) User clicks on "new note" button
 2) System opens a blank note
 3) User types their note
 4) User clicks "save note" button
+	4.1)User returns to main menu without saving
+	4.2)System asks if user would like to save before exiting
+	4.3)user says yes
 5) System asks user to title the note
 6) User enters title
 7) System timestamps the note
@@ -18,6 +21,9 @@ User edits a note
 4) System opens that note
 5) User edits the note
 6) User clicks "Save note" button
+	6.1)User returns to main menu without saving
+	6.2)System asks if user would like to save before exiting
+	6.3)user says yes
 7) System timestamps the note
 8) System saves the note
 9) System takes the user to the menu
