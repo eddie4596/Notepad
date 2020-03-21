@@ -14,6 +14,8 @@ User creates a new note
 8) System saves the note
 9) System takes the user to the menu
 
+Nouns:User, button, System, Note, timestamp, menu
+
 User edits a note
 1) User clicks on "Edit a note"
 2) System shows the list of existing notes
