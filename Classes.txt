@@ -1,0 +1,35 @@
+Note: I believe user is only a class if we have logins. Also believe this is true for
+system.
+
+classes:
+User
+Note
+System
+GUI
+Timestamp
+NoteList
+
+
+Note:
+string Title
+Timestamp date
+string Text
+methods:
+editText();
+editTitle();
+displayText();
+displayTitle();
+
+Note: There may be a Date class that does this
+Timestamp:
+Date date
+methods:
+displayDate();
+
+GUI:
+
+Notelist:
+List notes
+Methods:
+addNote();
+deleteNode();

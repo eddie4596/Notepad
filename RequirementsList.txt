@@ -1,4 +1,4 @@
-Requirements list Version 1.0
+Requirements list Version 1.1
 1) Be able to create new notes
 2) Be able to edit existing notes
 3) Be able to delete notes
@@ -14,3 +14,4 @@ Potential ideas:
 - have user logins to accomodate multiple users?
 - Add the time the the note was created as well
 - display word count on each note?
+- Be able to use mouse with GUI
