@@ -15,3 +15,5 @@ Potential ideas:
 - Add the time the the note was created as well
 - display word count on each note?
 - Be able to use mouse with GUI
+- Be able to star messages based on importance
+- Be able to sort list of messages based on different parameters

@@ -12,7 +12,6 @@ User creates a new note
 6) User enters title
 7) System timestamps the note
 8) System saves the note
-9) System takes the user to the menu
 
 Nouns:User, button, System, Note, timestamp, menu
 
@@ -28,7 +27,6 @@ User edits a note
 	6.3)user says yes
 7) System timestamps the note
 8) System saves the note
-9) System takes the user to the menu
 
 User deletes a note
 1) User clicks on "Delete a note"
@@ -37,7 +35,7 @@ User deletes a note
 4) System asks user "Are you sure you want to delete <name of note>?"
 5) User clicks on Yes
 6) System deletes the note
-7) System takes the user to the menu
+7) System takes the user to the list of notes
 
 
 
