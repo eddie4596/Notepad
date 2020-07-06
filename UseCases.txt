@@ -1,4 +1,4 @@
-Use Cases version 1.1
+Use Cases version 1.2
 
 User creates a new note
 1) User clicks on "new note" button
@@ -8,10 +8,13 @@ User creates a new note
 	4.1)User returns to main menu without saving
 	4.2)System asks if user would like to save before exiting
 	4.3)user says yes
+		4.3.1)user says no
+		4.3.2)system takes user to main menu
 5) System asks user to title the note
 6) User enters title
 7) System timestamps the note
 8) System saves the note
+9) System takes user to main menu
 
 Nouns:User, button, System, Note, timestamp, menu
 
@@ -25,8 +28,11 @@ User edits a note
 	6.1)User returns to main menu without saving
 	6.2)System asks if user would like to save before exiting
 	6.3)user says yes
+		6.3.1)user says no
+		6.3.2)system takes user to main menu
 7) System timestamps the note
 8) System saves the note
+9) System takes user to list of existing notes
 
 User deletes a note
 1) User clicks on "Delete a note"
@@ -34,6 +40,8 @@ User deletes a note
 3) User clicks on note he wants to delete 
 4) System asks user "Are you sure you want to delete <name of note>?"
 5) User clicks on Yes
+	5.1) User clicks on No
+	5.2) System takes user back to list of existing notes
 6) System deletes the note
 7) System takes the user to the list of notes
 

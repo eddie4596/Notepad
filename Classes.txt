@@ -6,7 +6,7 @@ User
 Note
 System
 GUI
-Timestamp
+Timestamp # possibly use date class and have no need for this class
 NoteList
 
 
